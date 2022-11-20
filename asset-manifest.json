@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Digital-Bussines-Card-React/static/css/main.f742678a.css",
+    "main.js": "/Digital-Bussines-Card-React/static/js/main.f8c4c72d.js",
+    "static/media/logo.JPG": "/Digital-Bussines-Card-React/static/media/logo.8f1ceac17a685d88e3d1.JPG",
+    "index.html": "/Digital-Bussines-Card-React/index.html",
+    "main.f742678a.css.map": "/Digital-Bussines-Card-React/static/css/main.f742678a.css.map",
+    "main.f8c4c72d.js.map": "/Digital-Bussines-Card-React/static/js/main.f8c4c72d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f742678a.css",
+    "static/js/main.f8c4c72d.js"
+  ]
+}
