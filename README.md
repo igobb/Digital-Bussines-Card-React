@@ -19,7 +19,7 @@ The project was created to learn and solidify my knowledge of pure JavaScript an
 ## Setup
 To run this project, open this link:
 
-<a href:"https://igobb.github.io/Digital-Bussines-Card-React/">Digital Bussines Card site</a>
+⭐ <a href="https://igobb.github.io/Digital-Bussines-Card-React/">Digital Bussines Card</a> ⭐
 
 
 ## Project Status
